@@ -7,8 +7,7 @@ I'm an ambitious programmer committed to the University of Miami as a Data Scien
 
 ## 🚀 What I'm Up To
 
-- Currently a High School Student at Southern High School
-- Delving into building Full Stack applications with JavaScript
+
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rex-fullerton-378297282/)
