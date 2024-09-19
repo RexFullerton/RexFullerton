@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software engineer from America</h3>
 
 # 💫 About Me:
-I'm an ambitious programmer committed to the University of Miami as a Data Science and Artificial Intelligence major. My largest passions include the utility of coding and artificial intelligence. 
+I'm an ambitious programmer studying at the University of Miami as a Data Science and Artificial Intelligence major. My largest passions include the utility of coding and artificial intelligence. 
 
 ## 🚀 What I'm Up To
 
