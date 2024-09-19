@@ -7,7 +7,7 @@ I'm an ambitious programmer studying at the University of Miami as a Data Scienc
 
 ## 🚀 What I'm Up To
 
-
+Learning Data science applications in R and brainstorming ideas for my first individual project.
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rex-fullerton-378297282/)
